@@ -1,0 +1,32 @@
+.head-element {
+  color: #120095;
+  font-family: Lobster, Monospace;
+  font-size: 50px; 
+}
+.quote {
+  color: #001F2F; 
+}
+.smaller-image {
+  width: 850px;
+  border-color: red;
+  border-width: 2px;
+  border-style: solid; 
+}
+
+#timeline {
+  background-color: #F7B2A6;
+  padding: 5px;
+  font-family: Lobster, Monospace;
+}
+
+#timeline:hover {
+  -moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.list {
+  border: solid; 
+  padding: 22px; 
+  border-color: #ECA394; 
+}
